@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @rsenseman, a data engineer at Flexport, based on the West Coast
-- 🌱 I’m interested in Scala, functional programming, data streaming, and data warehouse design
+👋
